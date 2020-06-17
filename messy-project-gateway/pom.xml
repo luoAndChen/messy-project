@@ -5,10 +5,11 @@
     <parent>
         <artifactId>messy-project-parent</artifactId>
         <groupId>com.messy</groupId>
-        <version>1.0-SNAPSHOT</version>
+        <version>${revision}</version>
         <relativePath>../messy-project-parent/pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
+    <description>网关服务</description>
 
     <artifactId>messy-project-gateway</artifactId>
     <name>messy project gateway</name>
