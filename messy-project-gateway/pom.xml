@@ -11,7 +11,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>messy-project-gateway</artifactId>
-
+    <name>messy project gateway</name>
     <dependencies>
         <dependency>
             <groupId>cn.hutool</groupId>

@@ -1,0 +1,361 @@
+2020-06-17 14:09:38,557 INFO listen for service meta change
+
+2020-06-17 14:09:40,725 INFO [SERVER-INIT] got port: 8848
+
+2020-06-17 14:09:40,725 INFO [SERVER-INIT] got path: /nacos
+
+2020-06-17 14:09:41,709 INFO receive config info: unknown#172.20.30.32:8848#1592374181709#2
+
+
+2020-06-17 14:09:41,710 ERROR [SERVER-STATUS] Exception while sending server status
+
+java.lang.IllegalArgumentException: server: 172.20.30.32:8848 is not in serverlist
+	at com.alibaba.nacos.naming.cluster.ServerListManager.onReceiveServerStatus(ServerListManager.java:198)
+	at com.alibaba.nacos.naming.cluster.ServerListManager$ServerStatusReporter.run(ServerListManager.java:345)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-06-17 14:09:43,711 INFO receive config info: unknown#172.20.30.32:8848#1592374183711#2
+
+
+2020-06-17 14:09:45,712 INFO [NACOS-DISTRO] healthy server list changed, old: [], new: [{"adWeight":0,"alive":true,"ip":"172.20.30.32","key":"172.20.30.32:8848","lastRefTime":1592374183711,"lastRefTimeStr":"2020-06-17 14:09:43","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-17 14:09:45,712 INFO [NACOS-DISTRO] disable health check for 60000 ms from now on.
+
+2020-06-17 14:09:45,712 INFO receive config info: unknown#172.20.30.32:8848#1592374185712#2
+
+
+2020-06-17 14:09:47,713 INFO receive config info: unknown#172.20.30.32:8848#1592374187713#2
+
+
+2020-06-17 14:09:49,714 INFO receive config info: unknown#172.20.30.32:8848#1592374189714#2
+
+
+2020-06-17 14:09:51,716 INFO receive config info: unknown#172.20.30.32:8848#1592374191716#2
+
+
+2020-06-17 14:09:53,717 INFO receive config info: unknown#172.20.30.32:8848#1592374193717#2
+
+
+2020-06-17 14:09:55,717 INFO receive config info: unknown#172.20.30.32:8848#1592374195717#2
+
+
+2020-06-17 14:09:57,718 INFO receive config info: unknown#172.20.30.32:8848#1592374197718#2
+
+
+2020-06-17 14:09:59,719 INFO receive config info: unknown#172.20.30.32:8848#1592374199719#2
+
+
+2020-06-17 14:10:01,726 INFO receive config info: unknown#172.20.30.32:8848#1592374201726#2
+
+
+2020-06-17 14:10:03,728 INFO receive config info: unknown#172.20.30.32:8848#1592374203728#2
+
+
+2020-06-17 14:10:05,730 INFO receive config info: unknown#172.20.30.32:8848#1592374205730#2
+
+
+2020-06-17 14:10:07,731 INFO receive config info: unknown#172.20.30.32:8848#1592374207731#2
+
+
+2020-06-17 14:19:08,817 INFO listen for service meta change
+
+2020-06-17 14:19:10,835 INFO [SERVER-INIT] got port: 8848
+
+2020-06-17 14:19:10,835 INFO [SERVER-INIT] got path: /nacos
+
+2020-06-17 14:19:11,768 INFO receive config info: unknown#172.20.30.32:8848#1592374751768#2
+
+
+2020-06-17 14:19:11,770 ERROR [SERVER-STATUS] Exception while sending server status
+
+java.lang.IllegalArgumentException: server: 172.20.30.32:8848 is not in serverlist
+	at com.alibaba.nacos.naming.cluster.ServerListManager.onReceiveServerStatus(ServerListManager.java:198)
+	at com.alibaba.nacos.naming.cluster.ServerListManager$ServerStatusReporter.run(ServerListManager.java:345)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-06-17 14:19:13,771 INFO receive config info: unknown#172.20.30.32:8848#1592374753771#2
+
+
+2020-06-17 14:19:15,773 INFO [NACOS-DISTRO] healthy server list changed, old: [], new: [{"adWeight":0,"alive":true,"ip":"172.20.30.32","key":"172.20.30.32:8848","lastRefTime":1592374753771,"lastRefTimeStr":"2020-06-17 14:19:13","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-17 14:19:15,773 INFO [NACOS-DISTRO] disable health check for 60000 ms from now on.
+
+2020-06-17 14:19:15,773 INFO receive config info: unknown#172.20.30.32:8848#1592374755773#2
+
+
+2020-06-17 14:19:17,774 INFO receive config info: unknown#172.20.30.32:8848#1592374757774#2
+
+
+2020-06-17 14:19:19,776 INFO receive config info: unknown#172.20.30.32:8848#1592374759776#2
+
+
+2020-06-17 14:19:21,777 INFO receive config info: unknown#172.20.30.32:8848#1592374761777#2
+
+
+2020-06-17 14:19:23,779 INFO receive config info: unknown#172.20.30.32:8848#1592374763779#2
+
+
+2020-06-17 14:19:25,781 INFO receive config info: unknown#172.20.30.32:8848#1592374765781#2
+
+
+2020-06-17 14:19:27,784 INFO receive config info: unknown#172.20.30.32:8848#1592374767784#2
+
+
+2020-06-17 14:19:29,785 INFO receive config info: unknown#172.20.30.32:8848#1592374769785#2
+
+
+2020-06-17 14:19:31,788 INFO receive config info: unknown#172.20.30.32:8848#1592374771788#2
+
+
+2020-06-17 14:19:33,788 INFO receive config info: unknown#172.20.30.32:8848#1592374773788#2
+
+
+2020-06-17 14:19:35,790 INFO receive config info: unknown#172.20.30.32:8848#1592374775790#2
+
+
+2020-06-17 14:19:37,791 INFO receive config info: unknown#172.20.30.32:8848#1592374777791#2
+
+
+2020-06-17 14:19:39,793 INFO receive config info: unknown#172.20.30.32:8848#1592374779793#2
+
+
+2020-06-17 14:19:41,795 INFO receive config info: unknown#172.20.30.32:8848#1592374781795#2
+
+
+2020-06-17 14:19:43,796 INFO receive config info: unknown#172.20.30.32:8848#1592374783796#2
+
+
+2020-06-17 14:19:45,797 INFO receive config info: unknown#172.20.30.32:8848#1592374785797#2
+
+
+2020-06-17 14:19:47,798 INFO receive config info: unknown#172.20.30.32:8848#1592374787798#2
+
+
+2020-06-17 14:19:49,800 INFO receive config info: unknown#172.20.30.32:8848#1592374789800#2
+
+
+2020-06-17 14:19:51,801 INFO receive config info: unknown#172.20.30.32:8848#1592374791801#2
+
+
+2020-06-17 14:19:53,802 INFO receive config info: unknown#172.20.30.32:8848#1592374793802#2
+
+
+2020-06-17 14:19:55,802 INFO receive config info: unknown#172.20.30.32:8848#1592374795802#2
+
+
+2020-06-17 14:19:57,803 INFO receive config info: unknown#172.20.30.32:8848#1592374797803#2
+
+
+2020-06-17 14:19:59,803 INFO receive config info: unknown#172.20.30.32:8848#1592374799803#2
+
+
+2020-06-17 14:20:01,804 INFO receive config info: unknown#172.20.30.32:8848#1592374801804#2
+
+
+2020-06-17 14:20:03,805 INFO receive config info: unknown#172.20.30.32:8848#1592374803805#2
+
+
+2020-06-17 14:20:05,806 INFO receive config info: unknown#172.20.30.32:8848#1592374805806#2
+
+
+2020-06-17 14:20:07,807 INFO receive config info: unknown#172.20.30.32:8848#1592374807807#2
+
+
+2020-06-17 14:20:09,808 INFO receive config info: unknown#172.20.30.32:8848#1592374809808#2
+
+
+2020-06-17 14:20:11,809 INFO receive config info: unknown#172.20.30.32:8848#1592374811809#2
+
+
+2020-06-17 14:20:13,811 INFO receive config info: unknown#172.20.30.32:8848#1592374813811#2
+
+
+2020-06-17 14:20:15,814 INFO [NACOS-DISTRO] distro threshold restored and stable now, enable health check. current ratio: 1.0
+
+2020-06-17 14:20:15,814 INFO receive config info: unknown#172.20.30.32:8848#1592374815814#2
+
+
+2020-06-17 14:20:17,816 INFO receive config info: unknown#172.20.30.32:8848#1592374817816#2
+
+
+2020-06-17 14:20:19,818 INFO receive config info: unknown#172.20.30.32:8848#1592374819818#2
+
+
+2020-06-17 14:20:21,819 INFO receive config info: unknown#172.20.30.32:8848#1592374821819#2
+
+
+2020-06-17 14:20:23,820 INFO receive config info: unknown#172.20.30.32:8848#1592374823820#2
+
+
+2020-06-17 14:20:25,821 INFO receive config info: unknown#172.20.30.32:8848#1592374825821#2
+
+
+2020-06-17 14:20:27,822 INFO receive config info: unknown#172.20.30.32:8848#1592374827822#2
+
+
+2020-06-17 14:20:29,823 INFO receive config info: unknown#172.20.30.32:8848#1592374829823#2
+
+
+2020-06-17 14:20:31,824 INFO receive config info: unknown#172.20.30.32:8848#1592374831824#2
+
+
+2020-06-17 14:20:33,825 INFO receive config info: unknown#172.20.30.32:8848#1592374833825#2
+
+
+2020-06-17 14:20:35,826 INFO receive config info: unknown#172.20.30.32:8848#1592374835826#2
+
+
+2020-06-17 14:20:37,828 INFO receive config info: unknown#172.20.30.32:8848#1592374837828#2
+
+
+2020-06-17 14:20:39,830 INFO receive config info: unknown#172.20.30.32:8848#1592374839830#2
+
+
+2020-06-17 14:20:41,831 INFO receive config info: unknown#172.20.30.32:8848#1592374841831#2
+
+
+2020-06-17 14:20:43,832 INFO receive config info: unknown#172.20.30.32:8848#1592374843832#2
+
+
+2020-06-17 14:20:45,833 INFO receive config info: unknown#172.20.30.32:8848#1592374845833#2
+
+
+2020-06-17 14:20:47,833 INFO receive config info: unknown#172.20.30.32:8848#1592374847833#2
+
+
+2020-06-17 14:20:49,833 INFO receive config info: unknown#172.20.30.32:8848#1592374849833#2
+
+
+2020-06-17 14:20:51,835 INFO receive config info: unknown#172.20.30.32:8848#1592374851835#2
+
+
+2020-06-17 14:20:53,837 INFO receive config info: unknown#172.20.30.32:8848#1592374853837#2
+
+
+2020-06-17 14:20:55,838 INFO receive config info: unknown#172.20.30.32:8848#1592374855838#2
+
+
+2020-06-17 14:20:57,839 INFO receive config info: unknown#172.20.30.32:8848#1592374857839#2
+
+
+2020-06-17 14:20:59,840 INFO receive config info: unknown#172.20.30.32:8848#1592374859840#2
+
+
+2020-06-17 14:21:01,841 INFO receive config info: unknown#172.20.30.32:8848#1592374861841#2
+
+
+2020-06-17 14:21:03,842 INFO receive config info: unknown#172.20.30.32:8848#1592374863842#2
+
+
+2020-06-17 14:21:05,844 INFO receive config info: unknown#172.20.30.32:8848#1592374865844#2
+
+
+2020-06-17 14:21:07,846 INFO receive config info: unknown#172.20.30.32:8848#1592374867846#2
+
+
+2020-06-17 14:21:09,847 INFO receive config info: unknown#172.20.30.32:8848#1592374869847#2
+
+
+2020-06-17 14:21:11,847 INFO receive config info: unknown#172.20.30.32:8848#1592374871847#2
+
+
+2020-06-17 14:21:13,849 INFO receive config info: unknown#172.20.30.32:8848#1592374873849#2
+
+
+2020-06-17 14:21:15,850 INFO receive config info: unknown#172.20.30.32:8848#1592374875850#2
+
+
+2020-06-17 14:21:17,852 INFO receive config info: unknown#172.20.30.32:8848#1592374877852#2
+
+
+2020-06-17 14:21:19,853 INFO receive config info: unknown#172.20.30.32:8848#1592374879853#2
+
+
+2020-06-17 14:21:21,855 INFO receive config info: unknown#172.20.30.32:8848#1592374881855#2
+
+
+2020-06-17 14:21:23,856 INFO receive config info: unknown#172.20.30.32:8848#1592374883856#2
+
+
+2020-06-17 14:21:25,856 INFO receive config info: unknown#172.20.30.32:8848#1592374885856#2
+
+
+2020-06-17 14:21:27,857 INFO receive config info: unknown#172.20.30.32:8848#1592374887857#2
+
+
+2020-06-17 14:21:29,858 INFO receive config info: unknown#172.20.30.32:8848#1592374889858#2
+
+
+2020-06-17 14:21:31,859 INFO receive config info: unknown#172.20.30.32:8848#1592374891859#2
+
+
+2020-06-17 14:21:33,860 INFO receive config info: unknown#172.20.30.32:8848#1592374893860#2
+
+
+2020-06-17 14:21:35,862 INFO receive config info: unknown#172.20.30.32:8848#1592374895862#2
+
+
+2020-06-17 14:21:37,864 INFO receive config info: unknown#172.20.30.32:8848#1592374897864#2
+
+
+2020-06-17 14:21:39,865 INFO receive config info: unknown#172.20.30.32:8848#1592374899865#2
+
+
+2020-06-17 14:21:41,866 INFO receive config info: unknown#172.20.30.32:8848#1592374901866#2
+
+
+2020-06-17 14:21:43,867 INFO receive config info: unknown#172.20.30.32:8848#1592374903867#2
+
+
+2020-06-17 14:21:45,868 INFO receive config info: unknown#172.20.30.32:8848#1592374905868#2
+
+
+2020-06-17 14:21:47,868 INFO receive config info: unknown#172.20.30.32:8848#1592374907868#2
+
+
+2020-06-17 14:21:49,870 INFO receive config info: unknown#172.20.30.32:8848#1592374909870#2
+
+
+2020-06-17 14:21:51,872 INFO receive config info: unknown#172.20.30.32:8848#1592374911872#2
+
+
+2020-06-17 14:21:53,873 INFO receive config info: unknown#172.20.30.32:8848#1592374913873#2
+
+
+2020-06-17 14:21:55,874 INFO receive config info: unknown#172.20.30.32:8848#1592374915874#2
+
+
+2020-06-17 14:21:57,875 INFO receive config info: unknown#172.20.30.32:8848#1592374917875#2
+
+
+2020-06-17 14:21:59,876 INFO receive config info: unknown#172.20.30.32:8848#1592374919876#2
+
+
+2020-06-17 14:22:01,877 INFO receive config info: unknown#172.20.30.32:8848#1592374921877#2
+
+
+2020-06-17 14:22:03,879 INFO receive config info: unknown#172.20.30.32:8848#1592374923879#2
+
+
+2020-06-17 14:22:05,881 INFO receive config info: unknown#172.20.30.32:8848#1592374925881#2
+
+
+2020-06-17 14:22:07,882 INFO receive config info: unknown#172.20.30.32:8848#1592374927882#2
+
+
+2020-06-17 14:22:09,884 INFO receive config info: unknown#172.20.30.32:8848#1592374929884#2
+
+
+2020-06-17 14:22:11,889 INFO receive config info: unknown#172.20.30.32:8848#1592374931886#2
+
+
