@@ -1,0 +1,24 @@
+2020-06-17 14:45:19,551 INFO DEFAULT_GROUP@@messy-project-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.30.32:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-17 14:45:19,554 INFO [IP-UPDATED] namespace: 0415e4d7-c6e4-4096-ae54-f4bba406d744, service: DEFAULT_GROUP@@messy-project-gateway, ips: 172.20.30.32:9001_true,
+
+2020-06-17 14:48:04,668 INFO {POS} {IP-DISABLED} valid: 172.20.30.32:9001@DEFAULT@DEFAULT_GROUP@@messy-project-gateway, region: unknown, msg: client timeout after 15000, last beat: 1592376467946
+
+2020-06-17 14:48:05,298 INFO service: DEFAULT_GROUP@@messy-project-gateway {POS} {IP-ENABLED} valid: 172.20.30.32:9001@DEFAULT, region: unknown, msg: client beat ok
+
+2020-06-17 14:48:24,672 INFO {POS} {IP-DISABLED} valid: 172.20.30.32:9001@DEFAULT@DEFAULT_GROUP@@messy-project-gateway, region: unknown, msg: client timeout after 15000, last beat: 1592376485298
+
+2020-06-17 14:48:29,700 INFO service: DEFAULT_GROUP@@messy-project-gateway {POS} {IP-ENABLED} valid: 172.20.30.32:9001@DEFAULT, region: unknown, msg: client beat ok
+
+2020-06-17 16:00:45,931 INFO DEFAULT_GROUP@@messy-project-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.30.32:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-17 16:00:45,931 INFO [IP-UPDATED] namespace: 0415e4d7-c6e4-4096-ae54-f4bba406d744, service: DEFAULT_GROUP@@messy-project-gateway, ips: 
+
+2020-06-17 16:26:13,098 INFO DEFAULT_GROUP@@messy-project-auth-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.30.32:8000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-17 16:26:13,098 INFO [IP-UPDATED] namespace: ec2bc416-35fe-406f-ab79-144d1c8fa901, service: DEFAULT_GROUP@@messy-project-auth-server, ips: 172.20.30.32:8000_true,
+
+2020-06-17 16:26:26,838 INFO DEFAULT_GROUP@@messy-project-auth-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.30.32:8000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-17 16:26:26,838 INFO [IP-UPDATED] namespace: ec2bc416-35fe-406f-ab79-144d1c8fa901, service: DEFAULT_GROUP@@messy-project-auth-server, ips: 
+

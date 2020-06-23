@@ -1,12 +1,8 @@
-2020-06-17 14:09:39,303 INFO [dump-all-ok] common.yaml+DEFAULT_GROUP, 1589960608157, length=162, md5=38d3c69404808b8e5e26a503200b9adb
+2020-06-23 14:54:42,776 INFO [dump-all-ok] common.yaml+DEFAULT_GROUP, 1589960608157, length=162, md5=38d3c69404808b8e5e26a503200b9adb
 
-2020-06-17 14:09:39,304 INFO [dump-all-ok] common.yaml+DEFAULT_GROUP, 1589960717963, length=162, md5=38d3c69404808b8e5e26a503200b9adb
+2020-06-23 14:54:42,779 INFO [dump-all-ok] common.yaml+DEFAULT_GROUP, 1592381389560, length=157, md5=fe4f88c0aefc5f76ec79016926a53385
 
-2020-06-17 14:09:39,306 INFO [dump-all-ok] messy-project-gateway.yaml+DEFAULT_GROUP, 1592071020766, length=3389, md5=4626074f7ee8a66564284ad4f3d0734b
+2020-06-23 14:54:42,780 INFO [dump-all-ok] messy-project-gateway.yaml+DEFAULT_GROUP, 1592375950816, length=3396, md5=ec850826165774a5592e8ab2aaece600
 
-2020-06-17 14:19:09,321 INFO [dump-all-ok] common.yaml+DEFAULT_GROUP, 1589960608157, length=162, md5=38d3c69404808b8e5e26a503200b9adb
-
-2020-06-17 14:19:09,321 INFO [dump-all-ok] common.yaml+DEFAULT_GROUP, 1589960717963, length=162, md5=38d3c69404808b8e5e26a503200b9adb
-
-2020-06-17 14:19:09,322 INFO [dump-all-ok] messy-project-gateway.yaml+DEFAULT_GROUP, 1592071020766, length=3389, md5=4626074f7ee8a66564284ad4f3d0734b
+2020-06-23 14:54:42,781 INFO [dump-all-ok] messy-project-auth-server.yaml+DEFAULT_GROUP, 1592382353784, length=5726, md5=b732cf99d2da70668b2d9daa2e271dcd
 

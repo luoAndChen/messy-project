@@ -1,0 +1,38 @@
+2020-06-17 14:45:20,555 INFO DEFAULT_GROUP@@messy-project-gateway is changed, add it to push queue.
+
+2020-06-17 14:45:20,561 INFO serviceName: DEFAULT_GROUP@@messy-project-gateway changed, schedule push for: 172.20.30.32:51476, agent: Nacos-Java-Client:v1.1.4, key: 172.20.30.32,51476,46521707258800
+
+2020-06-17 14:45:20,561 INFO send udp packet: 172.20.30.32,51476,46521707258800
+
+2020-06-17 14:45:20,572 INFO received ack: {"type": "push-ack", "lastRefTime":"46521707258800", "data":""} from: 172.20.30.32:51476, cost: 11 ms, unacked: 0, total push: 1
+
+2020-06-17 14:48:05,669 INFO DEFAULT_GROUP@@messy-project-gateway is changed, add it to push queue.
+
+2020-06-17 14:48:25,673 INFO DEFAULT_GROUP@@messy-project-gateway is changed, add it to push queue.
+
+2020-06-17 14:48:25,673 INFO serviceName: DEFAULT_GROUP@@messy-project-gateway changed, schedule push for: 172.20.30.32:51476, agent: Nacos-Java-Client:v1.1.4, key: 172.20.30.32,51476,46706819924000
+
+2020-06-17 14:48:25,673 INFO send udp packet: 172.20.30.32,51476,46706819924000
+
+2020-06-17 14:48:25,687 INFO received ack: {"type": "push-ack", "lastRefTime":"46706819924000", "data":""} from: 172.20.30.32:51476, cost: 14 ms, unacked: 0, total push: 2
+
+2020-06-17 14:48:30,702 INFO DEFAULT_GROUP@@messy-project-gateway is changed, add it to push queue.
+
+2020-06-17 14:48:30,702 INFO serviceName: DEFAULT_GROUP@@messy-project-gateway changed, schedule push for: 172.20.30.32:51476, agent: Nacos-Java-Client:v1.1.4, key: 172.20.30.32,51476,46711848556500
+
+2020-06-17 14:48:30,702 INFO send udp packet: 172.20.30.32,51476,46711848556500
+
+2020-06-17 14:48:31,889 INFO received ack: {"type": "push-ack", "lastRefTime":"46711848556500", "data":""} from: 172.20.30.32:51476, cost: 1187 ms, unacked: 0, total push: 3
+
+2020-06-17 16:00:46,933 INFO DEFAULT_GROUP@@messy-project-gateway is changed, add it to push queue.
+
+2020-06-17 16:00:46,933 INFO serviceName: DEFAULT_GROUP@@messy-project-gateway changed, schedule push for: 172.20.30.32:51476, agent: Nacos-Java-Client:v1.1.4, key: 172.20.30.32,51476,51048079129000
+
+2020-06-17 16:00:46,933 INFO send udp packet: 172.20.30.32,51476,51048079129000
+
+2020-06-17 16:00:46,938 INFO received ack: {"type": "push-ack", "lastRefTime":"51048079129000", "data":""} from: 172.20.30.32:51476, cost: 5 ms, unacked: 0, total push: 4
+
+2020-06-17 16:26:14,099 INFO DEFAULT_GROUP@@messy-project-auth-server is changed, add it to push queue.
+
+2020-06-17 16:26:27,839 INFO DEFAULT_GROUP@@messy-project-auth-server is changed, add it to push queue.
+
