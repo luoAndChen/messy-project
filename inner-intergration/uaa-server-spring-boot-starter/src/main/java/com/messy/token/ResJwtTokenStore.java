@@ -1,5 +1,5 @@
 package com.messy.token;
-//package com.open.capacity.server.token;
+//package com.messy.server.token;
 ///*
 // * Copyright 2013-2014 the original author or authors.
 // *
@@ -22,7 +22,7 @@ package com.messy.token;
 //import org.springframework.security.oauth2.provider.token.store.JwtAccessTokenConverter;
 //import org.springframework.security.oauth2.provider.token.store.JwtTokenStore;
 //
-//import com.open.capacity.model.system.LoginAppUser;
+//import com.messy.model.system.LoginAppUser;
 //
 // 
 //public class ResJwtTokenStore extends JwtTokenStore {
