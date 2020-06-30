@@ -1,0 +1,8 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.messy.uaa.client.authorize.provider.AuthAuthorizeConfigProvider,\
+com.messy.uaa.client.authorize.OpenAuthorizeConfigManager,\
+com.messy.uaa.client.config.ExceptionHandlerAdvice,\
+com.messy.common.feign.FeignInterceptorConfig,\
+com.messy.uaa.client.config.SecurityHandlerConfig,\
+com.messy.uaa.client.config.TokenStoreConfig,\
+com.messy.uaa.client.UAAClientAutoConfig

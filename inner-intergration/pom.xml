@@ -18,6 +18,7 @@
         <module>redis-spring-boot-starter</module>
         <module>uaa-server-spring-boot-starter</module>
         <module>common-spring-boot-starter</module>
+        <module>uaa-client-spring-boot-starter</module>
     </modules>
 
 </project>

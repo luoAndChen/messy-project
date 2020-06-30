@@ -1,24 +1,88 @@
-2020-06-17 14:45:19,551 INFO DEFAULT_GROUP@@messy-project-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.30.32:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+2020-06-30 16:05:58,962 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.30.32:7000:unknown:DEFAULT_1.0_true_false_DEFAULT]
 
-2020-06-17 14:45:19,554 INFO [IP-UPDATED] namespace: 0415e4d7-c6e4-4096-ae54-f4bba406d744, service: DEFAULT_GROUP@@messy-project-gateway, ips: 172.20.30.32:9001_true,
+2020-06-30 16:05:58,965 INFO [IP-UPDATED] namespace: ec2bc416-35fe-406f-ab79-144d1c8fa901, service: DEFAULT_GROUP@@user-center, ips: 172.20.30.32:7000_true,
 
-2020-06-17 14:48:04,668 INFO {POS} {IP-DISABLED} valid: 172.20.30.32:9001@DEFAULT@DEFAULT_GROUP@@messy-project-gateway, region: unknown, msg: client timeout after 15000, last beat: 1592376467946
+2020-06-30 16:06:18,230 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.30.32:7000:unknown:DEFAULT_1.0_true_false_DEFAULT]
 
-2020-06-17 14:48:05,298 INFO service: DEFAULT_GROUP@@messy-project-gateway {POS} {IP-ENABLED} valid: 172.20.30.32:9001@DEFAULT, region: unknown, msg: client beat ok
+2020-06-30 16:06:18,230 INFO [IP-UPDATED] namespace: ec2bc416-35fe-406f-ab79-144d1c8fa901, service: DEFAULT_GROUP@@user-center, ips: 
 
-2020-06-17 14:48:24,672 INFO {POS} {IP-DISABLED} valid: 172.20.30.32:9001@DEFAULT@DEFAULT_GROUP@@messy-project-gateway, region: unknown, msg: client timeout after 15000, last beat: 1592376485298
+2020-06-30 16:07:49,709 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.30.32:7000:unknown:DEFAULT_1.0_true_false_DEFAULT]
 
-2020-06-17 14:48:29,700 INFO service: DEFAULT_GROUP@@messy-project-gateway {POS} {IP-ENABLED} valid: 172.20.30.32:9001@DEFAULT, region: unknown, msg: client beat ok
+2020-06-30 16:07:49,709 INFO [IP-UPDATED] namespace: ec2bc416-35fe-406f-ab79-144d1c8fa901, service: DEFAULT_GROUP@@user-center, ips: 172.20.30.32:7000_true,
 
-2020-06-17 16:00:45,931 INFO DEFAULT_GROUP@@messy-project-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.30.32:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+2020-06-30 16:30:16,339 INFO DEFAULT_GROUP@@messy-project-auth-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.30.32:8000:unknown:DEFAULT_1.0_true_false_DEFAULT]
 
-2020-06-17 16:00:45,931 INFO [IP-UPDATED] namespace: 0415e4d7-c6e4-4096-ae54-f4bba406d744, service: DEFAULT_GROUP@@messy-project-gateway, ips: 
+2020-06-30 16:30:16,340 INFO [IP-UPDATED] namespace: ec2bc416-35fe-406f-ab79-144d1c8fa901, service: DEFAULT_GROUP@@messy-project-auth-server, ips: 172.20.30.32:8000_true,
 
-2020-06-17 16:26:13,098 INFO DEFAULT_GROUP@@messy-project-auth-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.30.32:8000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+2020-06-30 16:32:33,021 INFO DEFAULT_GROUP@@messy-project-auth-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.30.32:8000:unknown:DEFAULT_1.0_true_false_DEFAULT]
 
-2020-06-17 16:26:13,098 INFO [IP-UPDATED] namespace: ec2bc416-35fe-406f-ab79-144d1c8fa901, service: DEFAULT_GROUP@@messy-project-auth-server, ips: 172.20.30.32:8000_true,
+2020-06-30 16:32:33,021 INFO [IP-UPDATED] namespace: ec2bc416-35fe-406f-ab79-144d1c8fa901, service: DEFAULT_GROUP@@messy-project-auth-server, ips: 
 
-2020-06-17 16:26:26,838 INFO DEFAULT_GROUP@@messy-project-auth-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.30.32:8000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+2020-06-30 16:32:53,420 INFO DEFAULT_GROUP@@messy-project-auth-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.30.32:8000:unknown:DEFAULT_1.0_true_false_DEFAULT]
 
-2020-06-17 16:26:26,838 INFO [IP-UPDATED] namespace: ec2bc416-35fe-406f-ab79-144d1c8fa901, service: DEFAULT_GROUP@@messy-project-auth-server, ips: 
+2020-06-30 16:32:53,420 INFO [IP-UPDATED] namespace: ec2bc416-35fe-406f-ab79-144d1c8fa901, service: DEFAULT_GROUP@@messy-project-auth-server, ips: 172.20.30.32:8000_true,
+
+2020-06-30 16:33:40,173 INFO DEFAULT_GROUP@@messy-project-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.30.32:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-30 16:33:40,173 INFO [IP-UPDATED] namespace: ec2bc416-35fe-406f-ab79-144d1c8fa901, service: DEFAULT_GROUP@@messy-project-gateway, ips: 172.20.30.32:9001_true,
+
+2020-06-30 16:58:50,331 INFO DEFAULT_GROUP@@messy-project-auth-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.30.32:8000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-30 16:58:50,335 INFO [IP-UPDATED] namespace: ec2bc416-35fe-406f-ab79-144d1c8fa901, service: DEFAULT_GROUP@@messy-project-auth-server, ips: 
+
+2020-06-30 16:59:10,159 INFO DEFAULT_GROUP@@messy-project-auth-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.30.32:8000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-30 16:59:10,159 INFO [IP-UPDATED] namespace: ec2bc416-35fe-406f-ab79-144d1c8fa901, service: DEFAULT_GROUP@@messy-project-auth-server, ips: 172.20.30.32:8000_true,
+
+2020-06-30 17:07:45,797 INFO DEFAULT_GROUP@@messy-project-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.30.32:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-30 17:07:45,797 INFO [IP-UPDATED] namespace: ec2bc416-35fe-406f-ab79-144d1c8fa901, service: DEFAULT_GROUP@@messy-project-gateway, ips: 
+
+2020-06-30 17:08:01,337 INFO DEFAULT_GROUP@@messy-project-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.30.32:9200:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-30 17:08:01,337 INFO [IP-UPDATED] namespace: ec2bc416-35fe-406f-ab79-144d1c8fa901, service: DEFAULT_GROUP@@messy-project-gateway, ips: 172.20.30.32:9200_true,
+
+2020-06-30 17:37:06,700 INFO DEFAULT_GROUP@@messy-project-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.30.32:9200:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-30 17:37:06,700 INFO [IP-UPDATED] namespace: ec2bc416-35fe-406f-ab79-144d1c8fa901, service: DEFAULT_GROUP@@messy-project-gateway, ips: 
+
+2020-06-30 17:37:22,158 INFO DEFAULT_GROUP@@messy-project-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.30.32:9200:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-30 17:37:22,159 INFO [IP-UPDATED] namespace: ec2bc416-35fe-406f-ab79-144d1c8fa901, service: DEFAULT_GROUP@@messy-project-gateway, ips: 172.20.30.32:9200_true,
+
+2020-06-30 17:53:53,149 INFO DEFAULT_GROUP@@messy-project-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.30.32:9200:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-30 17:53:53,149 INFO [IP-UPDATED] namespace: ec2bc416-35fe-406f-ab79-144d1c8fa901, service: DEFAULT_GROUP@@messy-project-gateway, ips: 
+
+2020-06-30 17:54:08,087 INFO DEFAULT_GROUP@@messy-project-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.30.32:9200:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-30 17:54:08,088 INFO [IP-UPDATED] namespace: ec2bc416-35fe-406f-ab79-144d1c8fa901, service: DEFAULT_GROUP@@messy-project-gateway, ips: 172.20.30.32:9200_true,
+
+2020-06-30 17:57:36,835 INFO DEFAULT_GROUP@@messy-project-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.30.32:9200:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-30 17:57:36,835 INFO [IP-UPDATED] namespace: ec2bc416-35fe-406f-ab79-144d1c8fa901, service: DEFAULT_GROUP@@messy-project-gateway, ips: 
+
+2020-06-30 17:57:51,924 INFO DEFAULT_GROUP@@messy-project-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.30.32:9200:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-30 17:57:51,924 INFO [IP-UPDATED] namespace: ec2bc416-35fe-406f-ab79-144d1c8fa901, service: DEFAULT_GROUP@@messy-project-gateway, ips: 172.20.30.32:9200_true,
+
+2020-06-30 18:01:07,064 INFO DEFAULT_GROUP@@messy-project-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.30.32:9200:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-30 18:01:07,064 INFO [IP-UPDATED] namespace: ec2bc416-35fe-406f-ab79-144d1c8fa901, service: DEFAULT_GROUP@@messy-project-gateway, ips: 
+
+2020-06-30 18:01:22,828 INFO DEFAULT_GROUP@@messy-project-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.30.32:9200:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-30 18:01:22,828 INFO [IP-UPDATED] namespace: ec2bc416-35fe-406f-ab79-144d1c8fa901, service: DEFAULT_GROUP@@messy-project-gateway, ips: 172.20.30.32:9200_true,
+
+2020-06-30 18:01:54,518 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.30.32:7000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-30 18:01:54,518 INFO [IP-UPDATED] namespace: ec2bc416-35fe-406f-ab79-144d1c8fa901, service: DEFAULT_GROUP@@user-center, ips: 
+
+2020-06-30 18:01:54,593 INFO DEFAULT_GROUP@@messy-project-auth-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.30.32:8000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-30 18:01:54,593 INFO [IP-UPDATED] namespace: ec2bc416-35fe-406f-ab79-144d1c8fa901, service: DEFAULT_GROUP@@messy-project-auth-server, ips: 
+
+2020-06-30 18:01:54,601 INFO DEFAULT_GROUP@@messy-project-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.30.32:9200:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-30 18:01:54,601 INFO [IP-UPDATED] namespace: ec2bc416-35fe-406f-ab79-144d1c8fa901, service: DEFAULT_GROUP@@messy-project-gateway, ips: 
 

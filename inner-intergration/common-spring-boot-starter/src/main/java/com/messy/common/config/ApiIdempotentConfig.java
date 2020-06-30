@@ -2,7 +2,7 @@ package com.messy.common.config;
 
 import com.messy.common.interceptor.AccessLimitInterceptor;
 import com.messy.common.interceptor.ApiIdempotentInterceptor;
-import com.messy.common.util.RedisUtil;
+import com.messy.redis.util.RedisUtil;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.redis.core.RedisTemplate;

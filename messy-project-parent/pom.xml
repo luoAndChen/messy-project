@@ -154,6 +154,11 @@
             </dependency>
             <dependency>
                 <groupId>com.messy</groupId>
+                <artifactId>uaa-client-spring-boot-starter</artifactId>
+                <version>${revision}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.messy</groupId>
                 <artifactId>common-spring-boot-starter</artifactId>
                 <version>${revision}</version>
             </dependency>
