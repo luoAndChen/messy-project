@@ -1,10 +1,10 @@
-2020-06-30 15:52:12,009 INFO [dump-all-ok] common.yaml+DEFAULT_GROUP, 1589960608157, length=162, md5=38d3c69404808b8e5e26a503200b9adb
+2020-07-01 14:26:53,856 INFO [dump-all-ok] common.yaml+DEFAULT_GROUP, 1589960608157, length=162, md5=38d3c69404808b8e5e26a503200b9adb
 
-2020-06-30 15:52:12,011 INFO [dump-all-ok] common.yaml+DEFAULT_GROUP, 1592381389560, length=157, md5=fe4f88c0aefc5f76ec79016926a53385
+2020-07-01 14:26:53,857 INFO [dump-all-ok] common.yaml+DEFAULT_GROUP, 1592381389560, length=157, md5=fe4f88c0aefc5f76ec79016926a53385
 
-2020-06-30 15:52:12,012 INFO [dump-all-ok] messy-project-gateway.yaml+DEFAULT_GROUP, 1592375950816, length=3396, md5=ec850826165774a5592e8ab2aaece600
+2020-07-01 14:26:53,858 INFO [dump-all-ok] messy-project-gateway.yaml+DEFAULT_GROUP, 1593511256412, length=5630, md5=c2b4ab9a31368ae45f3f93ab13254358
 
-2020-06-30 15:52:12,013 INFO [dump-all-ok] messy-project-auth-server.yaml+DEFAULT_GROUP, 1592382353784, length=5726, md5=b732cf99d2da70668b2d9daa2e271dcd
+2020-07-01 14:26:53,860 INFO [dump-all-ok] messy-project-auth-server.yaml+DEFAULT_GROUP, 1592382353784, length=5726, md5=b732cf99d2da70668b2d9daa2e271dcd
 
-2020-06-30 17:53:20,185 WARN [dump-ignore] ignore to save cache file. groupKey=messy-project-gateway.yaml+DEFAULT_GROUP+ec2bc416-35fe-406f-ab79-144d1c8fa901, md5=894c9aa5c82d1dd02473dfe73f17c62f, lastModifiedOld=1593509806772, lastModifiedNew=1593510800105
+2020-07-01 14:26:53,861 INFO [dump-all-ok] user-center.yaml+DEFAULT_GROUP, 1593504227335, length=5022, md5=9e8507372afad04e57cadf3c19a443ad
 
