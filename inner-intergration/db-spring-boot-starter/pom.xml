@@ -5,7 +5,7 @@
     <parent>
         <artifactId>inner-intergration</artifactId>
         <groupId>com.messy</groupId>
-        <version>${revision}</version>
+        <version>1.0</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -13,7 +13,9 @@
     <name>db spring boot starter</name>
     <description>数据库支撑</description>
 
-
+    <properties>
+        <jasypt.version>1.14</jasypt.version>
+    </properties>
     <dependencies>
         <!-- mysql驱动 -->
         <dependency>

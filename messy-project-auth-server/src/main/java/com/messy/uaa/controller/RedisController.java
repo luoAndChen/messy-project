@@ -37,7 +37,7 @@ public class RedisController {
    
     @ResponseBody
     @GetMapping("/memoryInfo")
-    @ApiOperation(value = "redis内存信息")
+    @ApiOperation(value = "redis鍐呭瓨淇℃伅")
     public String getMemoryInfo() {
         Map<String, Object> map = new HashMap<>();
 
@@ -57,7 +57,7 @@ public class RedisController {
     
     @ResponseBody
     @GetMapping("/keysSize")
-    @ApiOperation(value = "redis键值信息")
+    @ApiOperation(value = "redis锟斤拷值锟斤拷息")
     public String getKeysSize() {
         Map<String, Object> map = new HashMap<>();
 

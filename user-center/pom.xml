@@ -5,15 +5,13 @@
     <parent>
         <artifactId>messy-project-parent</artifactId>
         <groupId>com.messy</groupId>
-        <version>${revision}</version>
+        <version>1.0</version>
         <relativePath>../messy-project-parent/pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.messy</groupId>
     <artifactId>user-center</artifactId>
-    <version>1.0-SNAPSHOT</version>
-
+    <name>user center</name>
     <dependencies>
 
         <!-- 关系型数据库配置 -->
