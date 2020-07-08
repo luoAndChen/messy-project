@@ -10,15 +10,12 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>inner-intergration</artifactId>
-    <name>inner intergration</name>
+    <artifactId>system-center</artifactId>
     <packaging>pom</packaging>
+    <name>system center</name>
     <modules>
-        <module>db-spring-boot-starter</module>
-        <module>redis-spring-boot-starter</module>
-        <module>uaa-server-spring-boot-starter</module>
-        <module>common-spring-boot-starter</module>
-        <module>uaa-client-spring-boot-starter</module>
-        <module>log-spring-boot-starter</module>
+        <module>log-center</module>
     </modules>
+
+
 </project>

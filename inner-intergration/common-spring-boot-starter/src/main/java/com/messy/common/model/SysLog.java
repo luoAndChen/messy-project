@@ -10,8 +10,6 @@ import java.util.Date;
 
 
 /**
-* @author 作者 owen 
-* @version 创建时间：2017年11月12日 上午22:57:51
 * 日志实体
  */
 @Builder

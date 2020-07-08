@@ -162,6 +162,11 @@
                 <artifactId>common-spring-boot-starter</artifactId>
                 <version>${revision}</version>
             </dependency>
+            <dependency>
+                <groupId>com.messy</groupId>
+                <artifactId>log-spring-boot-starter</artifactId>
+                <version>${revision}</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
     <distributionManagement>

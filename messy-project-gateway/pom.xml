@@ -14,6 +14,11 @@
     <artifactId>messy-project-gateway</artifactId>
     <name>messy project gateway</name>
     <dependencies>
+        <!-- 日志组件 -->
+        <dependency>
+            <groupId>com.messy</groupId>
+            <artifactId>log-spring-boot-starter</artifactId>
+        </dependency>
         <dependency>
             <groupId>cn.hutool</groupId>
             <artifactId>hutool-all</artifactId>
@@ -107,6 +112,40 @@
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-pool2</artifactId>
+        </dependency>
+        <!-- 公共配置，spring cloud gateway 不兼容hibernate-validator -->
+        <dependency>
+            <groupId>com.messy</groupId>
+            <artifactId>common-spring-boot-starter</artifactId>
+            <exclusions>
+                <exclusion>
+                    <groupId>org.hibernate</groupId>
+                    <artifactId>hibernate-validator</artifactId>
+                </exclusion>
+
+                <exclusion>
+                    <groupId>org.apache.httpcomponents</groupId>
+                    <artifactId>httpclient</artifactId>
+                </exclusion>
+
+                <!--
+                    <exclusion>
+                    <groupId>org.apache.commons</groupId>
+                    <artifactId>commons-lang3</artifactId>
+                </exclusion>
+
+                <exclusion>
+                    <groupId>commons-io</groupId>
+                    <artifactId>commons-io</artifactId>
+                </exclusion>
+
+                <exclusion>
+                    <groupId>commons-io</groupId>
+                    <artifactId>commons-io</artifactId>
+                </exclusion>
+                 -->
+
+            </exclusions>
         </dependency>
     </dependencies>
     <build>
