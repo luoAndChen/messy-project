@@ -17,7 +17,7 @@ import org.springframework.context.annotation.FilterType;
 @ComponentScan(excludeFilters = @ComponentScan.Filter(type = FilterType.ASSIGNABLE_TYPE, value = TraceFilterConfig.class))
 @SpringBootApplication
 public class GateWayApp {
-    public static void main(String[] args) {
+    public static void main(String[] args) {       //测试怎么玩git
         SpringApplication.run(GateWayApp.class,args);
     }
 }
