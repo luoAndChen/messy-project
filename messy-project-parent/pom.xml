@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.messy</groupId>
-    <artifactId>messy-project</artifactId>
+    <artifactId>messy-project-parent</artifactId>
     <version>1.0</version>
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -13,14 +13,7 @@
         <version>2.2.2.RELEASE</version>
     </parent>
     <packaging>pom</packaging>
-    <name>messy project</name>
-    <modules>
-        <module>inner-intergration</module>
-        <module>messy-project-auth-server</module>
-        <module>messy-project-gateway</module>
-        <module>system-center</module>
-        <module>user-center</module>
-    </modules>
+    <name>messy project parent</name>
     <properties>
         <java.version>1.8</java.version>
         <!-- Project revision -->
